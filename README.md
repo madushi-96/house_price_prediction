@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-I am a **waiting intern** interested in **Machine Learning, Data Science, and AI-driven applications.** This project demonstrates my ability to build an end-to-end machine learning system with a working web application.
+I am a **waiting for a job** interested in **Machine Learning, Data Science, and AI-driven applications.** This project demonstrates my ability to build an end-to-end machine learning system with a working web application.
 
 ---
 
