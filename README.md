@@ -181,7 +181,7 @@ Screenshots:
 
 * Login page
 ### Login Page
-![Login Page](results/screenshots/loginpage.jpg)
+![Login Page](results/screenshots/login_page.jpg)
 
 * Prediction result
 ### Prediction Result
