@@ -84,15 +84,15 @@ models/house_price_pipeline.joblib
 
 The app provides:
 
-✔ Login page
-✔ Input form for house features
-✔ Predict button
-✔ Conversion to **Sri Lankan Rupees (LKR)**
-✔ No negative prices shown (clamped to 0)
-✔ Add predictions to history
-✔ Interactive graphs
-✔ Clear inputs
-✔ Logout functionality
+- ✅ Login page
+- ✅ Input form for house features
+- ✅ Predict button
+- ✅ Conversion to **Sri Lankan Rupees (LKR)**
+- ✅ No negative prices shown (clamped to 0)
+- ✅ Add predictions to history
+- ✅ Interactive graphs
+- ✅ Clear inputs
+- ✅ Logout functionality
 
 Run the app with:
 
