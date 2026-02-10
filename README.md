@@ -58,6 +58,27 @@ models/house_price_pipeline.joblib
 ```
 
 ---
+## 🛠️ Technologies Used
+
+### Frontend (User Interface)
+- **Streamlit** – Interactive web application framework  
+- **Matplotlib** – Graphs and visualizations  
+
+### Backend (Logic & Machine Learning)
+- **Python** – Main programming language  
+- **Pandas** – Data handling and preprocessing  
+- **NumPy** – Mathematical operations  
+- **Scikit-learn** – Machine learning library  
+- **Random Forest Regressor** – Prediction model  
+- **Joblib** – Saving and loading trained models  
+
+### Data
+- **Kaggle House Prices Dataset**
+
+### Version Control
+- **Git & GitHub**
+
+-----
 
 ## 🌐 Streamlit Web App Features
 
@@ -199,6 +220,4 @@ Screenshots:
 
 ---
 
-## 👩‍💻 Contact
 
-If you are interested in collaboration or internship opportunities, feel free to connect with me on GitHub.
